@@ -16,8 +16,8 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 ### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hampnna&show_icons=true&theme=dark" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hampnna&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hampannagouda&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hampannagouda&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
@@ -37,4 +37,6 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 </a>
 <a href="mailto:hampannagouda18@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+</a
+
+  ⭐ “Consistency beats talent when talent doesn’t work hard.”
