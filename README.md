@@ -18,7 +18,6 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hampannagouda&theme=tokyonight&hide_border=true" />
 </div>
->
 
 
 ---
@@ -26,7 +25,11 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 
 ### My LeetCode Stats
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-hampu_-orange)](https://leetcode.com/hampu_/)
+## 🏆 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/hampu_?theme=tokyonight&font=Karma&ext=contest" />
+</div>
 
 
 ---
