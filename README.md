@@ -41,6 +41,6 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 </a>
 <a href="mailto:hampannagouda18@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a
+</a>
 
   ⭐ “Consistency beats talent when talent doesn’t work hard.”
