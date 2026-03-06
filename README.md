@@ -8,7 +8,7 @@
 ║   ██║  ██║██║  ██║██║ ╚═╝ ██║██║     ██║  ██║██║ ╚████║██║ ╚████║██║  ██║  ║
 ║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝  ║
 ║                                                                              ║
-║         🚀 FULL STACK DEV • ML ENGINEER • SECURITY ENTHUSIAST 🚀            ║
+║         🚀 FULL STACK DEV • ML ENGINEER • DevOps 🚀            ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -60,7 +60,7 @@
 ```yaml
 name: Hampanna Gouda
 pronouns: He / Him
-status: Developer & ML Researcher 🇮🇳
+status: Developer  AI & DevOps 
 
 areas_of_expertise:
   - 🧠 Deep Learning & Machine Learning
@@ -71,7 +71,7 @@ areas_of_expertise:
 
 currently_building:
   - ResNet50-based Medical Image Steganography
-  - Encrypted DL Pipelines for Healthcare
+  - DevOps 
   - Full Stack Projects
 
 life_philosophy: >
@@ -88,7 +88,7 @@ life_philosophy: >
 - 🌱 **Learning** Prompt Engineering
 - 👯 **Looking to collaborate** on Deep Learning projects
 - 🤝 **Seeking help** with Full Stack Development
-- 💬 **Ask me about** OOP & Python
+- 💬 **Ask me about** OOPS Java & Python
 - 📫 **Reach me at** hampannagouda18@gmail.com
 
 <br/>
@@ -188,7 +188,6 @@ life_philosophy: >
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/>
   <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C"/>
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/>
@@ -205,7 +204,6 @@ life_philosophy: >
 #### 🌐 Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django"/>
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/>
@@ -217,9 +215,7 @@ life_philosophy: >
 #### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase"/>
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/>
 </p>
 
